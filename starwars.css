@@ -74,7 +74,7 @@
     top: 43px;
     width: 80px;
     height: 80px;
-    background: #33292a;
+    background: #3d3434;
     border-radius: 50%;
   }
   #finn .ear {
@@ -116,7 +116,7 @@
     top: 30px;
     width: 10px;
     height: 10px;
-    background: #2f1d16;
+    background: #3b676d;
     border-radius: 50%;
     left: 25%;
     transform: translateX(-50%);
@@ -126,7 +126,7 @@
     position: absolute;
     width: 10px;
     height: 10px;
-    background: #2f1d16;
+    background: #51458a;
     top: 0;
     border-radius: 50%;
     right: -40px;
@@ -266,7 +266,7 @@
     left: 50%;
     top: 40px;
     width: 60px;
-    height: 20px;
+    height: 30px;
     background: #363435;
     z-index: 4;
     transform: translateX(-50%);
@@ -310,7 +310,7 @@
     top: 34px;
     width: 10px;
     height: 10px;
-    background: #424b54;
+    background: #4883be;
     border-radius: 50%;
     left: 25%;
     transform: translateX(-50%);
@@ -320,7 +320,7 @@
     position: absolute;
     width: 10px;
     height: 10px;
-    background: #424b54;
+    background: #589ce0;
     top: 0;
     border-radius: 50%;
     right: -40px;
@@ -351,7 +351,7 @@
     left: 30%;
     width: 10px;
     height: 0;
-    background: #4fc3f7;
+    background: #4864ff;
     z-index: 10;
     border-radius: 4px 4px 0 0;
     transform: rotate(30deg);
@@ -1329,7 +1329,7 @@
     top: 32px;
     width: 10px;
     height: 8px;
-    background: #424b54;
+    background: #2f962f;
     border-radius: 0 3px 50% 50%;
     left: 25%;
     transform: translateX(-50%);
@@ -1339,7 +1339,7 @@
     position: absolute;
     width: 10px;
     height: 8px;
-    background: #424b54;
+    background: #279953;
     top: 0;
     border-radius: 3px 0 50% 50%;
     right: -40px;
