@@ -14,10 +14,10 @@
     align-items: center;
   }
   #light {
-    background: #e8e8e8;
+    background: #c8c5f8;
   }
   #dark {
-    background: #131313;
+    background: #2b2a2a;
   }
   .container {
     display: flex;
@@ -116,7 +116,7 @@
     top: 30px;
     width: 10px;
     height: 10px;
-    background: #3b676d;
+    background: #3f838b;
     border-radius: 50%;
     left: 25%;
     transform: translateX(-50%);
@@ -126,7 +126,7 @@
     position: absolute;
     width: 10px;
     height: 10px;
-    background: #51458a;
+    background: #5f539c;
     top: 0;
     border-radius: 50%;
     right: -40px;
@@ -143,7 +143,7 @@
   }
   #finn .mouth {
     position: absolute;
-    background: #2f1d16;
+    background: #613928;
     width: 30px;
     height: 4px;
     border-radius: 0 0 5px 5px;
@@ -152,7 +152,7 @@
     transform: translateX(-50%);
   }
   #finn .jacket {
-    background: #d1a868;
+    background: #aa9574;
     position: absolute;
     top: 0;
     width: 30%;
@@ -170,7 +170,7 @@
     position: absolute;
     top: 0;
     height: 110%;
-    background: #a27631;
+    background: #832a2a;
   }
   #finn .jacket-left:after {
     left: 100%;
@@ -308,8 +308,8 @@
   #rey .eyes {
     position: absolute;
     top: 34px;
-    width: 10px;
-    height: 10px;
+    width: 20px;
+    height: 20px;
     background: #4883be;
     border-radius: 50%;
     left: 25%;
@@ -318,9 +318,9 @@
   #rey .eyes:after {
     content: "";
     position: absolute;
-    width: 10px;
-    height: 10px;
-    background: #589ce0;
+    width: 20px;
+    height: 20px;
+    background: #4883be;
     top: 0;
     border-radius: 50%;
     right: -40px;
@@ -400,7 +400,7 @@
     top: 130px;
     height: 150px;
     transform: translateX(-50%);
-    background: #d2d5c2;
+    background: #586fa0;
     z-index: 2;
     border-radius: 15px 15px 0 0;
     overflow: hidden;
@@ -413,7 +413,7 @@
     transform: translateX(-50%);
     width: 36px;
     height: 20px;
-    background: #ea6b26;
+    background: #464969;
     border-radius: 0 0 6px 6px;
   }
   #poe .flight-suit:after {
@@ -487,7 +487,7 @@
     height: 100%;
     top: 0;
     left: 26px;
-    background: #b9444d;
+    background: #4c44b9;
   }
   #poe .helmet:after {
     content: "";
@@ -507,7 +507,7 @@
     height: 0;
     border-style: solid;
     border-width: 0 20px 50px 0;
-    border-color: transparent #b9444d transparent transparent;
+    border-color: transparent #6d44b9 transparent transparent;
   }
   #poe .helmet-back {
     position: absolute;
@@ -573,7 +573,7 @@
   }
   #poe .helmet-ornament {
     position: absolute;
-    background: #b9444d;
+    background: #4456b9;
     width: 20px;
     height: 20px;
     border-radius: 50%;
@@ -600,7 +600,7 @@
     transform: translateX(-50%);
     width: 4px;
     height: 16px;
-    background: #b9444d;
+    background: #4456b9;
     border-radius: 2px;
   }
   #poe .face {
@@ -674,7 +674,7 @@
     transform: translateX(-50%);
   }
   #poe .jacket {
-    background: #ea6b26;
+    background: #4496b9;
     position: absolute;
     top: 0;
     width: 30%;
@@ -692,7 +692,7 @@
     position: absolute;
     top: 0;
     height: 110%;
-    background: #9b400f;
+    background: #4496b9;
   }
   #poe .jacket-left:after {
     left: 100%;
@@ -1224,7 +1224,7 @@
     left: 50%;
     transform: translateX(-50%);
     top: 45px;
-    background: #e8673f;
+    background: #6d301e;
     border-radius: 50%;
   }
   #hux .hair-under {
@@ -1234,7 +1234,7 @@
     right: -12px;
     top: 0;
     border-radius: 50%;
-    background: #e8673f;
+    background: #6d301e;
   }
   #hux .hair-under:before {
     content: "";
@@ -1253,7 +1253,7 @@
     border-radius: 100% 100px;
     left: 60px;
     top: 46px;
-    background: #e96e48;
+    background: #6d301e;
     z-index: 3;
     transform: rotate(-45deg);
   }
@@ -1263,7 +1263,7 @@
     left: 44px;
     width: 5px;
     height: 34px;
-    background: #e8673f;
+    background: #6d301e;
     top: 15px;
     transform: rotate(-20deg);
   }
