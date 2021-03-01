@@ -737,7 +737,7 @@
     left: 70px;
     width: 80px;
     height: 100px;
-    background: #902d2c;
+    background: #c7d323;
     border-radius: 0 20px 0 100%;
     z-index: 5;
     overflow: hidden;
@@ -1080,7 +1080,7 @@
     right: 33%;
     width: 10px;
     height: 0;
-    background: #e53935;
+    background: #f7cd13;
     z-index: 10;
     border-radius: 50% 50% 0 0;
     transform: rotate(-30deg);
@@ -1121,7 +1121,7 @@
     top: 5px;
     left: 50%;
     transform: translateX(-50%);
-    background: #e53935;
+    background: #11a329;
     height: 5px;
     width: 0;
     z-index: 1;
